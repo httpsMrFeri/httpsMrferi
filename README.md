@@ -14,3 +14,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMrferi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMrferi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/httpsMrferi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=httpsMrferi&hide=contribs&theme=dark" />
+</a>
+
+<a href="https://github.com/httpsMrferi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMrferi&layout=compact" />
+</a>
