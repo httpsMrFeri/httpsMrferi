@@ -11,9 +11,9 @@
 
 ---
 <a href="https://github.com/httpsMrferi">
-  <img align="space-between" src="https://github-readme-stats.vercel.app/api?username=httpsMrferi&hide=contribs&theme=dark" />
+  <img align="center" content="space-between" src="https://github-readme-stats.vercel.app/api?username=httpsMrferi&hide=contribs&theme=dark" />
 </a>
 
 <a href="https://github.com/httpsMrferi">
-  <img align="space-between" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMrferi&layout=compact&theme=dark" />
+  <img align="center" content="space-between" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMrferi&layout=compact&theme=dark" />
 </a>
