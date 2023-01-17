@@ -10,10 +10,6 @@
 #####   **Telegram:** [o0mrferi0o](https://t.me/httpsMrferi) 
 
 ---
-<a align="left" href="https://github.com/httpsMrferi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=httpsMrferi&hide=contribs&theme=dark" />
-</a>
-
-<a align="center" href="https://github.com/httpsMrferi">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMrferi&layout=compact&theme=dark" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=httpsMrferi&hide=contribs&theme=dark" />
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMrferi&layout=compact&theme=dark" />
