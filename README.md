@@ -10,9 +10,4 @@
 #####   **Telegram:** [o0mrferi0o](https://t.me/httpsMrferi) 
 
 ---
-<a href="https://github.com/httpsMrferi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMrferi=dark&hide=TCL" />
-</a>
-<br/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=httpsMrferi&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Vighnesh's github stats"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsMrferi)](https://github.com/anuraghazra/github-readme-stats)
