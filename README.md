@@ -10,9 +10,9 @@
 ##### [MrFeri](https://mrferi.ir)
 ---
 <a href="https://github.com/httpsMrferi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-hacked&theme=dark&hide=TCL" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMrferi=dark&hide=TCL" />
 </a>
 <br/>
 <a href="https://github.com/httpsMrferi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=just-hacked&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Vighnesh's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=httpsMrferi&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Vighnesh's github stats"/>
 </a>
