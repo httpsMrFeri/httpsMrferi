@@ -16,4 +16,3 @@
 <br/>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=httpsMrferi&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Vighnesh's github stats"/>
-
