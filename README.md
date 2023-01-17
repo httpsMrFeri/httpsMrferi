@@ -12,4 +12,4 @@
 ---
 ![MrFeri GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsMrferi&hide=contribs&theme=dark)
 
-[Top Langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMrferi&layout=compact&theme=dark)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMrferi&layout=compact&theme=dark)
