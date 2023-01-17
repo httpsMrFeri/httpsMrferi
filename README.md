@@ -10,7 +10,8 @@
 #####   **Telegram:** [o0mrferi0o](https://t.me/httpsMrferi) 
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsMrferi&hide=contribs&theme=dark,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsMrferi&hide=contribs&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsMrferi&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMrferi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
