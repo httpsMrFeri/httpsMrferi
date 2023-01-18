@@ -1,4 +1,4 @@
-# Hi, i'm [Mrferi.ir](https://mrferi.ir)
+# Hi, i'm [Mrferi](https://mrferi.ir)
 ---
 ##### 🔰 I am interested in **hacking** and **security** 
 ##### 🧑‍💻 I am learning **cyber security** 
