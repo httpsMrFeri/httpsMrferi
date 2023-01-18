@@ -4,10 +4,10 @@
 ##### 🧑‍💻 I am learning **cyber security** 
 ##### 💞️ I am looking for cooperation in the network or website design 
 ##### ⚡my site:
-#####   [MrFeri](https://mrferi.ir)
+#####   [MrFeri.ir](https://mrferi.ir)
 ##### 📫 my other pages:
-#####   **Instagram:** [mrferi](https://instagram.com/https.mrferi)
-#####   **Telegram:** [mrferi](https://t.me/httpsMrferi) 
+#####   **Instagram:** [https.mrferi](https://instagram.com/https.mrferi)
+#####   **Telegram:** [httpsMrferi](https://t.me/IamMrferi) 
 
 ---
 ![MrFeri GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsMrferi&hide=contribs&theme=dark)
