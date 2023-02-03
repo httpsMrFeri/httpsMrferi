@@ -3,8 +3,7 @@
 ##### 🔰 I am interested in **hacking** and **security** 
 ##### 🧑‍💻 I am learning **cyber security** 
 ##### 💞️ I am looking for cooperation in the network or website design 
-##### ⚡my site:
-#####     [MrFeri.ir](https://mrferi.ir)
+##### ⚡my site: [MrFeri.ir](https://mrferi.ir)
 ##### 📫 my other pages:
 #####     **Instagram:** [https.mrferi](https://instagram.com/https.mrferi)
 #####     **Telegram:** [IamMrferi](https://t.me/IamMrferi) 
