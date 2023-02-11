@@ -6,7 +6,7 @@
 ##### ⚡my site: [MrFeri.ir](https://mrferi.ir)
 ##### 📫 my other pages:
 #####     **Instagram:** [https.mrferi](https://instagram.com/https.mrferi)
-#####     **Telegram:** [IamMrferi](https://t.me/MrFeri_bot) 
+#####     **Telegram:** [MrFeri_bot](https://t.me/MrFeri_bot) 
 
 ---
 ![MrFeri GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsMrferi&hide=contribs&theme=dark)
