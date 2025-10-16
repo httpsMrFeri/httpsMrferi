@@ -17,11 +17,6 @@
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMrFeri&layout=compact&langs_count=12&theme=radical&hide_border=false&border_radius=15&card_width=320" alt="Top languages" />
   </div>
 
-  <!-- Streak -->
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=httpsMrFeri&theme=dark" alt="streak" />
-  </p>
-
 </div>
 
 ---
@@ -32,7 +27,7 @@
 - 🔭 Currently learning: **Advanced Web Exploitation**, **Incident Response**, and **Hardening**  
 - 🧰 Interests: Penetration testing, bug bounties, secure web development, automation tools  
 - 🌐 Website: https://mrferi.ir  
-- 📫 Reach me: `f3rifjm@gmail.com`  
+- 📫 Reach me: f3rifjm@gmail.com
 - 📱 Telegram: https://t.me/sudoferi 
 - 📸 Instagram: https://instagram.com/mrferi.ir
 - ⚡ Fun: "A programmer counts from zero: 0,1,2,3,..."
