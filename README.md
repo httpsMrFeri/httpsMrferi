@@ -2,8 +2,10 @@
 <div align="center">
 
   <!-- Animated header (capsule-render) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=MrFeri&fontSize=50&fontColor=00d4ff&animation=twinkling&desc=Security%20Researcher%20•%20Bug%20Hunter%20•%20Web%20Developer&descSize=10&descAlignY=55" alt="header" />
-
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=MrFeri&fontSize=48&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Security%20Researcher%20•%20Bug%20Hunter%20•%20Web%20Developer&descSize=18&descAlignY=65" 
+    alt="header" 
+  />
   <!-- Typing subtitle -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=680&lines=Security-first+engineer;Building+tools+and+proofs+of+concept;Learning+and+sharing+in+cyber+security" alt="typing" />
@@ -24,15 +26,15 @@
 
 ---
 
-## 👋 Hi — I’m MrFeri (httpsMrFeri)
+## 👋 Hi — I’m Faramarz (F3ri)
 **Security researcher & self-taught developer** with a focus on web and network security. I build tools, write PoCs, and explore offensive/defensive techniques while continuously learning Cyber Security.
 
 - 🔭 Currently learning: **Advanced Web Exploitation**, **Incident Response**, and **Hardening**  
 - 🧰 Interests: Penetration testing, bug bounties, secure web development, automation tools  
 - 🌐 Website: https://mrferi.ir  
-- 📫 Reach me: `<<YOUR_EMAIL@example.com>>` (replace)  
-- 📱 Telegram: https://t.me/FeriMessengers_bot  
-- 📸 Instagram: https://instagram.com/https.mrferi  
+- 📫 Reach me: `f3rifjm@gmail.com`  
+- 📱 Telegram: https://t.me/sudoferi 
+- 📸 Instagram: https://instagram.com/mrferi.ir
 - ⚡ Fun: "A programmer counts from zero: 0,1,2,3,..."
 
 ---
@@ -58,14 +60,13 @@
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge)
 
 ---
-
 ## 🔭 Featured projects / highlights
-> (Pin the repos below on your profile so they show up at the top of your GitHub page)
 
-- **FLogGer-python-keylogger** — simple keylogger PoC (educational / research).  
-  Repo: `FLogGer-python-keylogger` — *good to keep a clear ethical use warning in README*.  
-- **react-shoping-card-v2** — front-end shopping card demo (React).  
-- **(Add your best PoC / tooling repos here)** — suggestions: web-exploit-scripts, pentest-automation, CVE-research-notes.
+- **F3-Manta** — A versatile network reconnaissance & automation toolkit designed for fast scanning, service enumeration, and result aggregation. Includes modular scanners and JSON output for easy integration with pipelines.  
+  Repo: [https://github.com/httpsMrFeri/F3-Manta](https://github.com/httpsMrFeri/F3-Manta)
+
+- **FLogGer-python-keylogger** — Educational proof-of-concept keylogger written in Python. Intended strictly for research, learning, and testing in controlled environments. **Ethical note:** never run this on systems you don't own or have explicit permission to test; see the repo README for safe-usage guidelines and responsible-disclosure instructions.  
+  Repo: [https://github.com/httpsMrFeri/FLogGer-python-keylogger](https://github.com/httpsMrFeri/FLogGer-python-keylogger)
 
 ---
 
@@ -86,9 +87,4 @@ If you want to work together — reach out by email or Telegram.
 
 ---
 
-## ⚠️ Important
-This profile includes security research code and educational PoCs. Use responsibly and ethically. Do **not** deploy or use harmful tools on systems you don't own or have explicit permission to test.
-
----
-
-<p align="center">Made with ❤️ • <a href="https://github.com/httpsMrFeri">httpsMrFeri</a></p>
+<p align="center">Made with <a href="http://mrferi.ir">f3ri</a></p>
