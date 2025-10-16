@@ -3,7 +3,7 @@
 
   <!-- Animated header (capsule-render) -->
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=230&section=header&text=MrFeri&fontSize=48&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Security%20Researcher%20•%20Bug%20Hunter%20•%20Web%20Developer&descSize=18&descAlignY=65" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=230&section=header&text=MrF3ri&fontSize=48&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Security%20Researcher%20•%20Bug%20Hunter%20•%20Web%20Developer&descSize=18&descAlignY=65" 
     alt="header" 
   />
   <!-- Typing subtitle -->
