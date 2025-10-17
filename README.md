@@ -26,10 +26,7 @@
 
 - 🔭 Currently learning: **Advanced Web Exploitation**, **Incident Response**, and **Hardening**  
 - 🧰 Interests: Penetration testing, bug bounties, secure web development, automation tools  
-- 🌐 Website: https://mrferi.ir  
-- 📫 Reach me: f3rifjm@gmail.com
 - 📱 Telegram: https://t.me/sudoferi 
-- 📸 Instagram: https://instagram.com/mrferi.ir
 - ⚡ Fun: "A programmer counts from zero: 0,1,2,3,..."
 
 ---
@@ -82,4 +79,4 @@ If you want to work together — reach out by email or Telegram.
 
 ---
 
-<p align="center">Made with <a href="http://mrferi.ir">f3ri</a></p>
+<p align="center">Made with <a href="https://t.me/sudoferi ">f3ri</a></p>
